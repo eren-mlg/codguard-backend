@@ -14,7 +14,7 @@ const TELEGRAM_BOT_TOKEN = '8795623230:AAGbVx6PLV8fssu5X42PdITJ1uII6wBkD1M';
 const TELEGRAM_CHAT_ID = '6896201538';
 
 // Aktif Pinggy Linkin
-const BASE_URL = 'https://drqot-31-223-56-202.run.pinggy-free.link';
+const BASE_URL = 'https://codguard-backend.onrender.com';
 
 // Siparişleri ve sayaçları tutan veritabanı
 const ordersDb = {};
